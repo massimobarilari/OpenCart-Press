@@ -15,3 +15,4 @@ OpenCart Press is a Wordpress Plugin that import products from an opencart DB in
   - Auto Import: for large import, setting time limits.
   - set portfolio meta (categories, tags, price)
   - add in search
+  - Add multi-language support
